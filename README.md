@@ -20,5 +20,4 @@ Cada carpeta contiene los archivos y documentación de las sesiones correspondie
 | SEMANAS | SESIONES | DESCRIPCIONES |
 | --- | --- | --- |
 | SEMANA 12 | Sesion 56 | Simple CSS Grid Example |
-| SEMANA 12 | Show file differences that haven't been staged |
-| SEMANA 01 | List all new or modified files |
+| SEMANA 12 | Sesion 57 | Bootstrap |
