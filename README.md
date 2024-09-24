@@ -1,5 +1,5 @@
-<h1>!Bienvenido(a) a la Unidad IV - +Chicas Tec! <img src="https://tenor.com/bZCHd.gif" width="30px">🚀</h1>
-<h2>By_MiChelleAlanya🦋</h2>
+<h1>¡Bienvenido(a) a la Unidad IV - +Chicas Tec! <img src="https://raw.githubusercontent.com/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
+<h2 href="https://github.com/bymichelleah">By_MiChelleAlanya🦋</h2>
 
 ### ¡Échale un vistazo!
 Aqui podras visualizar el contenido de cada sesión realizada en cada semana esta se vera ordenada en una tabla, es decir los temas que abarcaron cada sesion... 🏁  
@@ -15,9 +15,19 @@ Cada carpeta contiene los archivos y documentación de las sesiones correspondie
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
-### Documentación de la Unidad IV
+### 📍Clasificación🔖
+| SEMANAS | | 
+| --- | --- |
+| SEMANA 12 | 🦋 |
+| SEMANA 13 | 🦄 |
+| SEMANA 14 | 🐴 |
+| SEMANA 15 | 🐼 |
+| SEMANA 16 | 🐱 |
+| SEMANA 17 | 🐨 |
 
+### 🚀Documentación de la Unidad IV🚀
 | SEMANAS | SESIONES | DESCRIPCIONES |
 | --- | --- | --- |
-| SEMANA 12 | Sesion 56 | Simple CSS Grid Example |
-| SEMANA 12 | Sesion 57 | Bootstrap |
+| SEMANA 12 🦋 | Sesion 56 | Simple CSS Grid Example ✅|
+| SEMANA 12 🦋| Sesion 57 | Bootstrap ✅|
+| SEMANA 12 🦋| Sesion 58 | Bootstrap: Componentes ❌|
