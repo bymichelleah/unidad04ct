@@ -1,12 +1,12 @@
-<h1>¡Bienvenido(a) a la Unidad IV - +Chicas Tec! <img src="https://raw.githubusercontent.com/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
-<h2 href="https://github.com/bymichelleah">By_MiChelleAlanya🦋</h2>
+<h1>¡Bienvenido(a) a la Unidad IV - +Chicas Tec! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
+## [By_MiChelleAlanya🦋](https://github.com/bymichelleah)
 
 ### ¡Échale un vistazo!
 Aqui podras visualizar el contenido de cada sesión realizada en cada semana esta se vera ordenada en una tabla, es decir los temas que abarcaron cada sesion... 🏁  
 
 ### ¿Cómo navegar el repositorio?
 
-Cada carpeta contiene los archivos y documentación de las sesiones correspondientes con la codeficación de cada tema
+Cada carpeta contiene los archivos y documentación de las sesiones correspondientes con la codeficación de cada tema.
 
 ### ¿Qué tecnologías se estan aplicando?
 
@@ -16,7 +16,7 @@ Cada carpeta contiene los archivos y documentación de las sesiones correspondie
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
 ### 📍Clasificación🔖
-| SEMANAS | | 
+| SEMANAS | IDENTIFICADOR | 
 | --- | --- |
 | SEMANA 12 | 🦋 |
 | SEMANA 13 | 🦄 |
