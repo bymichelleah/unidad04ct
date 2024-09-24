@@ -32,3 +32,5 @@ Cada carpeta contiene los archivos y documentación de las sesiones correspondie
 | SEMANA 12 🦋 | Sesion 56 | Simple CSS Grid Example ✅|
 | SEMANA 12 🦋| Sesion 57 | Bootstrap ✅|
 | SEMANA 12 🦋| Sesion 58 | Bootstrap: Componentes ❌|
+
+### ¡Muchas gracias por ver🤍!
