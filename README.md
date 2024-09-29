@@ -17,7 +17,7 @@ Cada carpeta contiene los archivos y documentación de las sesiones correspondie
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
 ### Creación de un Formulario Login con Bootstrap - Sesión 60
-![Form](./semana12/sesion60/assets/img/form.png. "formulario")
+![Form](./semana12/sesion60/assets/img/form.png "formulario")
 
 ### 📍Clasificación🔖
 | SEMANAS | IDENTIFICADOR | 
