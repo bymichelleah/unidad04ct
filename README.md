@@ -43,7 +43,7 @@ Cada carpeta contiene los archivos y documentación de las sesiones correspondie
 | SEMANAS | SESIONES | DESCRIPCIONES |
 | --- | --- | --- |
 | SEMANA 13 🦄 | Sesion 61 | Introducción al Backend y Firebase✅|
-
+| SEMANA 13 🦄 | Sesion 62 | Autenticación con Email✅|
 ### ¡Muchas gracias por ver🤍!
 
 
