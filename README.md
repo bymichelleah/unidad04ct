@@ -52,6 +52,9 @@ Cada carpeta contiene los archivos y documentación de las sesiones correspondie
 | SEMANAS | SESIONES | DESCRIPCIONES |
 | --- | --- | --- |
 | SEMANA 14 🐴 | Sesion 66 | Miniproyecto - Diario Digital✅|
+| SEMANA 14 🐴 | Sesion 67 | CRUD con Firebase (edición y eliminación)✅|
+| SEMANA 14 🐴 | Sesion 67 | CRUD con Firebase (edición y eliminación - segunda parte)✅|
+| SEMANA 14 🐴 | Sesion 69 | Colaboración de proyectos en github✅|
 ### ¡Muchas gracias por ver🤍!
 
 
