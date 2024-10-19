@@ -1,0 +1,123 @@
+* {
+  font-family: "Loto", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: aliceblue;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+}
+
+nav {
+  background-color: rgb(140, 83, 194);
+  color: aliceblue;
+  width: 100%;
+  padding: 10px;
+}
+
+.play {
+  background-color: bisque;
+  width: 100%;
+  padding: 20px;
+}
+
+.press {
+  width: 20px;
+  height: 20px;
+}
+
+.view {
+  background-color: rgb(186, 210, 255);
+  padding: 15px;
+  width: 100%;
+}
+
+.btn {
+  background-color: rgb(120, 108, 233);
+  color: white;
+  padding: 10px 10px;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.text {
+  background-color: lightgray;
+  padding: 20px;
+}
+
+.text {
+  margin-bottom: 15px;
+  font-size: 14px;
+}
+
+/* para tablet */
+@media (min-width: 768px) {
+  .main-container {
+    flex-direction: column;
+  }
+  .press {
+    width: 80px;
+    height: 80px;
+  }
+
+  .btn {
+    padding: 12px 30px;
+    font-size: 18px;
+  }
+
+  .text {
+    font-size: 16px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+/* pantalla grande */
+@media (min-width: 1024px) {
+  .main-container {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+  .play,
+  .view,
+  .text {
+    width: 100%;
+    margin: 10px 0;
+  }
+
+  .play {
+    padding: 40px;
+  }
+
+  .press {
+    width: 100px;
+    height: 100px;
+  }
+
+  .btn {
+    font-size: 20px;
+    padding: 15px 40px;
+  }
+
+  .text {
+    font-size: 18px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+}
